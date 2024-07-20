@@ -1,0 +1,67 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\sbocz\\Documents\\Projects\\WWise Custom Music\\TheKarters_WwiseProject\\",
+   "SourceFilesRoot": "C:\\Users\\sbocz\\Documents\\Projects\\WWise Custom Music\\TheKarters_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\sbocz\\Documents\\Projects\\WWise Custom Music\\TheKarters_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\sbocz\\Documents\\Projects\\WWise Custom Music\\TheKarters_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3120926493",
+    "Language": "SFX",
+    "Hash": "4194527906",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\_CustomMusicSB_TestMusic",
+    "ShortName": "_CustomMusicSB_TestMusic",
+    "Path": "_CustomMusicSB_TestMusic.bnk",
+    "IncludedMemoryFiles": [
+     {
+      "Id": "164838834",
+      "Language": "SFX",
+      "ShortName": "RaceFinished.wav",
+      "Path": "SFX\\RaceFinished_F2BF74AC.wem"
+     },
+     {
+      "Id": "1015553928",
+      "Language": "SFX",
+      "ShortName": "Beach Party 2.wav",
+      "Path": "SFX\\Beach Party 2_F2BF74AC.wem"
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "3558074616",
+      "Name": "MusicIntroOutro_Switch",
+      "ObjectPath": "\\Switches\\Default Work Unit\\MusicIntroOutro_Switch",
+      "GUID": "{55B233D5-5284-4A7F-8C8D-C024A6E11A68}",
+      "Switches": [
+       {
+        "Id": "984952705",
+        "Name": "Music_Intro",
+        "ObjectPath": "\\Switches\\Default Work Unit\\MusicIntroOutro_Switch\\Music_Intro",
+        "GUID": "{07B3C03B-7FCC-4B50-A65B-457987253052}"
+       },
+       {
+        "Id": "3191610174",
+        "Name": "Music_Outro",
+        "ObjectPath": "\\Switches\\Default Work Unit\\MusicIntroOutro_Switch\\Music_Outro",
+        "GUID": "{747BEBCD-7163-4FCE-8E1C-B4A2F6D3F73A}"
+       },
+       {
+        "Id": "521318151",
+        "Name": "Music_BeforeRace",
+        "ObjectPath": "\\Switches\\Default Work Unit\\MusicIntroOutro_Switch\\Music_BeforeRace",
+        "GUID": "{B802378C-1305-404D-93B2-A4632FB9D35B}"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

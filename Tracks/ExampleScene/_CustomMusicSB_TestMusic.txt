@@ -1,0 +1,41 @@
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2797365996	BiomeScene_Switch			\Default Work Unit\BiomeScene_Switch	
+	3558074616	MusicIntroOutro_Switch			\Default Work Unit\MusicIntroOutro_Switch	
+
+Switch	ID	Name	Switch Group			Notes
+	1315104856	Biome2_Scene2	BiomeScene_Switch			
+	1315104857	Biome2_Scene3	BiomeScene_Switch			
+	1315104859	Biome2_Scene1	BiomeScene_Switch			
+	1315104862	Biome2_Scene4	BiomeScene_Switch			
+	1494646267	Biome999_Scene2	BiomeScene_Switch			
+	2265795105	Biome4_Scene1	BiomeScene_Switch			
+	2265795106	Biome4_Scene2	BiomeScene_Switch			
+	2265795107	Biome4_Scene3	BiomeScene_Switch			
+	2265795108	Biome4_Scene4	BiomeScene_Switch			
+	2594087472	Biome1_Scene3	BiomeScene_Switch			
+	2594087473	Biome1_Scene2	BiomeScene_Switch			
+	2594087474	Biome1_Scene1	BiomeScene_Switch			
+	2594087479	Biome1_Scene4	BiomeScene_Switch			
+	3442661616	Biome3_Scene1	BiomeScene_Switch			
+	3442661618	Biome3_Scene3	BiomeScene_Switch			
+	3442661619	Biome3_Scene2	BiomeScene_Switch			
+	3442661621	Biome3_Scene4	BiomeScene_Switch			
+	3612901662	CustomMapSwitch	BiomeScene_Switch			
+	521318151	Music_BeforeRace	MusicIntroOutro_Switch			
+	984952705	Music_Intro	MusicIntroOutro_Switch			
+	3191610174	Music_Outro	MusicIntroOutro_Switch			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	4091656514	GameState			\Default Work Unit\GameState	
+
+State	ID	Name	State Group			Notes
+	748895195	None	GameState			
+	762757699	Gameplay_State	GameState			
+	915658673	LoadingScreen_State	GameState			
+	3112137713	InGame_MainMenu_State	GameState			
+	3205958645	MainMenu_State	GameState			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	164838834	RaceFinished	C:\Users\sbocz\Documents\Projects\WWise Custom Music\TheKarters_WwiseProject\.cache\Windows\SFX\RaceFinished_F2BF74AC.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\Gameplay\CustomMapMusic\Outro\RaceFinished\RaceFinished		4360161
+	1015553928	Beach Party 2	C:\Users\sbocz\Documents\Projects\WWise Custom Music\TheKarters_WwiseProject\.cache\Windows\SFX\Beach Party 2_F2BF74AC.wem		\Interactive Music Hierarchy\Default Work Unit\Music_System\Gameplay\CustomMapMusic\Intro\LoopMusicInside_SetExitCue\Beach Party 2		4588550
+

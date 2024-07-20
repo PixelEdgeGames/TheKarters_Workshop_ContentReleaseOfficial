@@ -1,0 +1,265 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\sbocz\\Documents\\Projects\\TheKarters_WorkshopProjectRelease_Public\\VO_Tool_WWiseProject\\TheKarters_WwiseProject v0.8\\",
+   "SourceFilesRoot": "C:\\Users\\sbocz\\Documents\\Projects\\TheKarters_WorkshopProjectRelease_Public\\VO_Tool_WWiseProject\\TheKarters_WwiseProject v0.8\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\sbocz\\Documents\\Projects\\TheKarters_WorkshopProjectRelease_Public\\VO_Tool_WWiseProject\\TheKarters_WwiseProject v0.8\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\sbocz\\Documents\\Projects\\TheKarters_WorkshopProjectRelease_Public\\VO_Tool_WWiseProject\\TheKarters_WwiseProject v0.8\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1763428605",
+    "Language": "SFX",
+    "Hash": "2036244869",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\VO\\VO_CustomMia",
+    "ShortName": "VO_CustomMia",
+    "Path": "VO_CustomMia.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1763428605",
+      "Name": "VO_CustomMia",
+      "ObjectPath": "\\Events\\Default Work Unit\\VO\\VO_CustomMia",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "1.67"
+     }
+    ],
+    "IncludedMemoryFiles": [
+     {
+      "Id": "1050828237",
+      "Language": "SFX",
+      "ShortName": "pablo_beignHit (2).wav",
+      "Path": "SFX\\pablo_beignHit (2)_32513D82.wem"
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "1936426103",
+      "Name": "CharacterAction_Switch",
+      "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch",
+      "GUID": "{2B864265-842F-42BE-88D1-AC5B5DBC9513}",
+      "Switches": [
+       {
+        "Id": "221232711",
+        "Name": "Lost",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Lost",
+        "GUID": "{0542C43E-B036-4964-B180-D476F780DEA1}"
+       },
+       {
+        "Id": "1540195120",
+        "Name": "Greeting",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Greeting",
+        "GUID": "{8BC29C90-EE46-4FC1-852A-E073BA01D63F}"
+       },
+       {
+        "Id": "979765101",
+        "Name": "Win",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Win",
+        "GUID": "{05CB9679-8F9B-41E6-949F-D583949EF111}"
+       },
+       {
+        "Id": "1608817243",
+        "Name": "Damaged_Spoken",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Damaged_Spoken",
+        "GUID": "{F66BC0C3-617A-462A-A5D0-BF8C802F4FA2}"
+       },
+       {
+        "Id": "434486034",
+        "Name": "Damaged_NonVerbal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Damaged_NonVerbal",
+        "GUID": "{ECCB7B6F-2E96-40E1-8004-EA2913FB2414}"
+       },
+       {
+        "Id": "1108315410",
+        "Name": "Death_Spoken",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Death_Spoken",
+        "GUID": "{953C56B6-6C1D-4176-8B61-E34A07E2B1E5}"
+       },
+       {
+        "Id": "1413262985",
+        "Name": "Death_NonVerbal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Death_NonVerbal",
+        "GUID": "{CA30AF4A-7E03-4AF0-9658-0524F15CC215}"
+       },
+       {
+        "Id": "798009690",
+        "Name": "WeaponDeactivated_Spoken",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\WeaponDeactivated_Spoken",
+        "GUID": "{200DA3FB-2487-4419-9E12-818780F2C7DC}"
+       },
+       {
+        "Id": "1649949553",
+        "Name": "WeaponDeactivated_NonVerbal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\WeaponDeactivated_NonVerbal",
+        "GUID": "{5ED244DD-F0C3-4105-ACA8-F48FC0295AA0}"
+       },
+       {
+        "Id": "1340593635",
+        "Name": "Trick_Spoken",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Trick_Spoken",
+        "GUID": "{5A1461F5-3C08-4F25-94C5-47052330A2D0}"
+       },
+       {
+        "Id": "3061800794",
+        "Name": "Trick_NonVerbal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Trick_NonVerbal",
+        "GUID": "{1DAD331D-4093-4259-A664-F65CCDC27723}"
+       },
+       {
+        "Id": "157600643",
+        "Name": "WeaponActivate_Spoken_PerWeapon",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\WeaponActivate_Spoken_PerWeapon",
+        "GUID": "{EDB90C4B-95FF-4E61-8772-8D230F3A7B4C}"
+       },
+       {
+        "Id": "4258164997",
+        "Name": "WeaponActivate_Spoken_Common",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\WeaponActivate_Spoken_Common",
+        "GUID": "{93124420-D15B-4DFE-9B62-E3E3AE91D157}"
+       },
+       {
+        "Id": "363561691",
+        "Name": "Passing_Spoken",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Passing_Spoken",
+        "GUID": "{5DAF1ED1-9923-497C-8815-7E17A196F050}"
+       },
+       {
+        "Id": "1388140690",
+        "Name": "Passing_NonVerbal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\Passing_NonVerbal",
+        "GUID": "{3DF75FAE-6325-426D-A5C3-2E6A91FF64C8}"
+       },
+       {
+        "Id": "3475414559",
+        "Name": "CatchingWeapon_Spoken_PerWeapon",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\CatchingWeapon_Spoken_PerWeapon",
+        "GUID": "{683625F2-B382-462D-9281-E8E94B9ED536}"
+       },
+       {
+        "Id": "3147002074",
+        "Name": "CatchingWeapon_NonVerbal",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\CatchingWeapon_NonVerbal",
+        "GUID": "{31B7C5AB-AD92-4743-A1F3-19EB67188B65}"
+       },
+       {
+        "Id": "2491479209",
+        "Name": "CatchingWeapon_Spoken_Common",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\CatchingWeapon_Spoken_Common",
+        "GUID": "{23635D25-6549-4B3C-B409-AE1C6B7FC70A}"
+       },
+       {
+        "Id": "47377883",
+        "Name": "BoostpadAction",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\BoostpadAction",
+        "GUID": "{1E58F30D-2886-4C96-AD43-2A5CF73A0B89}"
+       },
+       {
+        "Id": "1014110858",
+        "Name": "OutsideTrackReAction",
+        "ObjectPath": "\\Switches\\Default Work Unit\\CharacterAction_Switch\\OutsideTrackReAction",
+        "GUID": "{A7D06505-D31C-480C-B7AD-53A0160DCEAE}"
+       }
+      ]
+     },
+     {
+      "Id": "2619897820",
+      "Name": "WeaponType_Switch",
+      "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch",
+      "GUID": "{0864568A-F643-45A8-AFE7-B968351CC61A}",
+      "Switches": [
+       {
+        "Id": "1876036237",
+        "Name": "BAZOOKA_00",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\BAZOOKA_00",
+        "GUID": "{5228852E-C650-49FE-B64D-76071C3462D6}"
+       },
+       {
+        "Id": "2398543572",
+        "Name": "BOOST_01",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\BOOST_01",
+        "GUID": "{7026C20F-5D6A-45BD-9985-4035A56B879C}"
+       },
+       {
+        "Id": "4204709342",
+        "Name": "HOMING_MISSLE_02",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\HOMING_MISSLE_02",
+        "GUID": "{B068BCBA-F462-41D8-A467-001FFF014E9F}"
+       },
+       {
+        "Id": "26935977",
+        "Name": "MLOT_03",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\MLOT_03",
+        "GUID": "{1A62438C-CE3C-48B0-BC2B-D1C016064533}"
+       },
+       {
+        "Id": "2458750734",
+        "Name": "PORTALGUN_04",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\PORTALGUN_04",
+        "GUID": "{BA61FB2A-D61D-4B46-9624-89201DF98DE8}"
+       },
+       {
+        "Id": "1887201905",
+        "Name": "SHOTGUN_05",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\SHOTGUN_05",
+        "GUID": "{DB9F50DF-6A4D-4382-BD8E-8EF63CCAA298}"
+       },
+       {
+        "Id": "1261780779",
+        "Name": "TARCZA_06",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\TARCZA_06",
+        "GUID": "{7EC44C16-1223-410A-ADB7-0DC257811CC5}"
+       },
+       {
+        "Id": "2403416996",
+        "Name": "TESLAGUN_07",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\TESLAGUN_07",
+        "GUID": "{1EA205EF-58D5-4FD8-9848-0768D49ADE05}"
+       },
+       {
+        "Id": "4264342268",
+        "Name": "TESLASHIELD_08",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\TESLASHIELD_08",
+        "GUID": "{D783FAAA-AC72-44CD-B8EF-9DECF7821630}"
+       },
+       {
+        "Id": "229820060",
+        "Name": "HEAL_AURA_11",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\HEAL_AURA_11",
+        "GUID": "{EB9E3C74-12DC-4F79-A96C-1620E1AAE18F}"
+       },
+       {
+        "Id": "2299025359",
+        "Name": "TELEPORT_DASH_12",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\TELEPORT_DASH_12",
+        "GUID": "{CFDD7025-B23D-4F6F-90A1-E9E64F8DB9A2}"
+       },
+       {
+        "Id": "2928837929",
+        "Name": "MINIGUN_13",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\MINIGUN_13",
+        "GUID": "{09A0FB63-D17C-4A48-8C56-A448E5548915}"
+       },
+       {
+        "Id": "2127554007",
+        "Name": "POISONGUN_14",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\POISONGUN_14",
+        "GUID": "{2AABECDE-F5A0-444E-B389-8D64924EFFC4}"
+       },
+       {
+        "Id": "3666712015",
+        "Name": "STAR_10",
+        "ObjectPath": "\\Switches\\Default Work Unit\\WeaponType_Switch\\STAR_10",
+        "GUID": "{CF5609A2-27D2-46EA-8EB2-7B4EEB4B1B60}"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

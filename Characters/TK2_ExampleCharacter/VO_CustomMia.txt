@@ -1,0 +1,49 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1763428605	VO_CustomMia			\Default Work Unit\VO\VO_CustomMia	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1936426103	CharacterAction_Switch			\Default Work Unit\CharacterAction_Switch	
+	2619897820	WeaponType_Switch			\Default Work Unit\WeaponType_Switch	
+
+Switch	ID	Name	Switch Group			Notes
+	47377883	BoostpadAction	CharacterAction_Switch			
+	157600643	WeaponActivate_Spoken_PerWeapon	CharacterAction_Switch			
+	221232711	Lost	CharacterAction_Switch			
+	363561691	Passing_Spoken	CharacterAction_Switch			
+	434486034	Damaged_NonVerbal	CharacterAction_Switch			
+	798009690	WeaponDeactivated_Spoken	CharacterAction_Switch			
+	979765101	Win	CharacterAction_Switch			
+	1014110858	OutsideTrackReAction	CharacterAction_Switch			
+	1108315410	Death_Spoken	CharacterAction_Switch			
+	1340593635	Trick_Spoken	CharacterAction_Switch			
+	1388140690	Passing_NonVerbal	CharacterAction_Switch			
+	1413262985	Death_NonVerbal	CharacterAction_Switch			
+	1540195120	Greeting	CharacterAction_Switch			
+	1608817243	Damaged_Spoken	CharacterAction_Switch			
+	1649949553	WeaponDeactivated_NonVerbal	CharacterAction_Switch			
+	2491479209	CatchingWeapon_Spoken_Common	CharacterAction_Switch			
+	3061800794	Trick_NonVerbal	CharacterAction_Switch			
+	3147002074	CatchingWeapon_NonVerbal	CharacterAction_Switch			
+	3475414559	CatchingWeapon_Spoken_PerWeapon	CharacterAction_Switch			
+	4258164997	WeaponActivate_Spoken_Common	CharacterAction_Switch			
+	26935977	MLOT_03	WeaponType_Switch			
+	229820060	HEAL_AURA_11	WeaponType_Switch			
+	1261780779	TARCZA_06	WeaponType_Switch			
+	1876036237	BAZOOKA_00	WeaponType_Switch			
+	1887201905	SHOTGUN_05	WeaponType_Switch			
+	2127554007	POISONGUN_14	WeaponType_Switch			
+	2299025359	TELEPORT_DASH_12	WeaponType_Switch			
+	2398543572	BOOST_01	WeaponType_Switch			
+	2403416996	TESLAGUN_07	WeaponType_Switch			
+	2458750734	PORTALGUN_04	WeaponType_Switch			
+	2928837929	MINIGUN_13	WeaponType_Switch			
+	3666712015	STAR_10	WeaponType_Switch			
+	4204709342	HOMING_MISSLE_02	WeaponType_Switch			
+	4264342268	TESLASHIELD_08	WeaponType_Switch			
+
+Effect plug-ins	ID	Name	Type				Notes
+	2652646462	Dialog_Leveler_Soft	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1050828237	pablo_beignHit (2)	C:\Users\sbocz\Documents\Projects\TheKarters_WorkshopProjectRelease_Public\VO_Tool_WWiseProject\TheKarters_WwiseProject v0.8\.cache\Windows\SFX\pablo_beignHit (2)_32513D82.wem		\Actor-Mixer Hierarchy\Default Work Unit\VO\VO\VO_System\VO_CustomMia\Greeting\pablo_beignHit (2)		29690
+
